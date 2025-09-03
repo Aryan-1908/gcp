@@ -1,0 +1,33 @@
+streamlit
+google-generativeai
+requests
+python-dotenv
+
+streamlit
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-core
+google-cloud-logging
+ 
+# If you are using service accounts
+google-auth
+ 
+# For handling environment variables
+python-dotenv
+ 
+# For data processing
+pandas
+numpy
+ 
+# For visualization
+matplotlib
+seaborn
+graphviz
+pydot
+ 
+# Optional: for interactive graphs
+networkx
